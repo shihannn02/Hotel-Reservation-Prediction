@@ -9,7 +9,7 @@ Firstly, import the new data generated before, with a dataset size of 14347 and 
 
 ```{r}
 # import new dataset
-data <- read.csv("new_dataset.csv")
+data <- read.csv("data/new_dataset.csv")
 ```
 
 ```{r}
